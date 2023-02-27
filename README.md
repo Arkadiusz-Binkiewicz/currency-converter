@@ -1,6 +1,6 @@
 # currency-converter
 
-![page screenshot](https://github.com/Arkadiusz-Binkiewicz/currency-converter/blob/main/images/currencyconverter.gif?raw=true)
+![page gif](https://github.com/Arkadiusz-Binkiewicz/currency-converter/blob/main/images/currencyconverter.gif?raw=true)
 
 ## Demo
 
