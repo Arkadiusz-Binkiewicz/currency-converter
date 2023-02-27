@@ -1,5 +1,7 @@
 # currency-converter
 
+![page screenshot](https://github.com/Arkadiusz-Binkiewicz/currency-converter/blob/main/images/currencyconverter.gif?raw=true)
+
 ## Demo
 
 https://arkadiusz-binkiewicz.github.io/currency-converter/
@@ -10,8 +12,11 @@ https://arkadiusz-binkiewicz.github.io/currency-converter/
 
 ![Arkadiusz Binkiewicz](https://github.com/Arkadiusz-Binkiewicz/currency-converter/blob/main/images/arkadiusz.jpg?raw=true)
 
-#### Screenshot
-
-![page screenshot](https://github.com/Arkadiusz-Binkiewicz/currency-converter/blob/main/images/screenshot.png?raw=true)
+#### Used Technologies
+- HTML
+- CSS
+- JavaScript (ES6+)
+- BEM convention
+- Git
 
 
